@@ -1,0 +1,14 @@
+//push and pop element
+#include<iostream>
+Using namespace std;
+Int main()
+{
+     Stack<string<s;
+     s.push(“Naina”);
+     s.push(“Kumari”);
+     cout<<”Top element”<<s.top()<<endl;
+     s.pop();
+     cout<<”Top element”<<s.top()<<endl;
+     cout<<”Size of stac”<<s.size()<<endl;
+     cout<<”Empty or not”<<s.empty()<<endl;
+}
